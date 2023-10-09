@@ -1,0 +1,258 @@
+[
+    {
+        "name": "An Giang",
+        "count": 4.817
+    },
+    {
+        "name": "Bà Rịa - Vũng Tàu",
+        "count": 17.299
+    },
+    {
+        "name": "Bắc Cạn",
+        "count": 3.149
+    },
+    {
+        "name": "Bắc Giang",
+        "count": 11.022
+    },
+    {
+        "name": "Bạc Liêu",
+        "count": 2.737
+    },
+    {
+        "name": "Bắc Ninh",
+        "count": 8.126
+    },
+    {
+        "name": "Bến Tre",
+        "count": 4.481
+    },
+    {
+        "name": "Bình Dương",
+        "count": 9.029
+    },
+    {
+        "name": "Bình Định",
+        "count": 6.684
+    },
+    {
+        "name": "Bình Phước",
+        "count": 7.992
+    },
+    {
+        "name": "Bình Thuận",
+        "count": 7.231
+    },
+    {
+        "name": "Cà Mau",
+        "count": 5.602
+    },
+    {
+        "name": "Cần Thơ",
+        "count": 5.79
+    },
+    {
+        "name": "Cao Bằng",
+        "count": 5.285
+    },
+    {
+        "name": "Đà Nẵng",
+        "count": 13.645
+    },
+    {
+        "name": "Đắk Lắk",
+        "count": 7.54
+    },
+    {
+        "name": "Đắk Nông",
+        "count": 4.296
+    },
+    {
+        "name": "Điện Biên",
+        "count": 4.665
+    },
+    {
+        "name": "Đồng Nai",
+        "count": 14.617
+    },
+    {
+        "name": "Đồng Tháp",
+        "count": 5.902
+    },
+    {
+        "name": "Gia Lai",
+        "count": 7.413
+    },
+    {
+        "name": "Hà Giang",
+        "count": 4.93
+    },
+    {
+        "name": "Hà Nam",
+        "count": 4.858
+    },
+    {
+        "name": "Hà Nội",
+        "count": 110.007
+    },
+    {
+        "name": "Hà Tĩnh",
+        "count": 7.368
+    },
+    {
+        "name": "Hải Dương",
+        "count": 7.924
+    },
+    {
+        "name": "Hải Phòng",
+        "count": 13.007
+    },
+    {
+        "name": "Hậu Giang",
+        "count": 2.978
+    },
+    {
+        "name": "Hòa Bình",
+        "count": 6.438
+    },
+    {
+        "name": "Hưng Yên",
+        "count": 7.371
+    },
+    {
+        "name": "Khánh Hòa",
+        "count": 7.74
+    },
+    {
+        "name": "Kiên Giang",
+        "count": 6.443
+    },
+    {
+        "name": "Kon Tum",
+        "count": 4.45
+    },
+    {
+        "name": "Lai Châu",
+        "count": 4.753
+    },
+    {
+        "name": "Lâm Đồng",
+        "count": 9.157
+    },
+    {
+        "name": "Lạng Sơn",
+        "count": 5.053
+    },
+    {
+        "name": "Lào Cai",
+        "count": 7.392
+    },
+    {
+        "name": "Long An",
+        "count": 8.13
+    },
+    {
+        "name": "Nam Định",
+        "count": 4.639
+    },
+    {
+        "name": "Nghệ An",
+        "count": 13.844
+    },
+    {
+        "name": "Ninh Bình",
+        "count": 7.318
+    },
+    {
+        "name": "Ninh Thuận",
+        "count": 3.079
+    },
+    {
+        "name": "Phú Thọ",
+        "count": 8.136
+    },
+    {
+        "name": "Phú Yên",
+        "count": 3.213
+    },
+    {
+        "name": "Quảng Bình",
+        "count": 5.877
+    },
+    {
+        "name": "Quảng Nam",
+        "count": 10.174
+    },
+    {
+        "name": "Quảng Ngãi",
+        "count": 4.634
+    },
+    {
+        "name": "Quảng Ninh",
+        "count": 16.435
+    },
+    {
+        "name": "Quảng Trị",
+        "count": 4.363
+    },
+    {
+        "name": "Sóc Trăng",
+        "count": 3.813
+    },
+    {
+        "name": "Sơn La",
+        "count": 8.158
+    },
+    {
+        "name": "Tây Ninh",
+        "count": 5.294
+    },
+    {
+        "name": "Thái Bình",
+        "count": 5.716
+    },
+    {
+        "name": "Thái Nguyên",
+        "count": 8.426
+    },
+    {
+        "name": "Thanh Hoá",
+        "count": 17.663
+    },
+    {
+        "name": "Thừa Thiên - Huế",
+        "count": 7.644
+    },
+    {
+        "name": "Tiền Giang",
+        "count": 5.935
+    },
+    {
+        "name": "TP.Hồ Chí Minh",
+        "count": 51.973
+    },
+    {
+        "name": "Trà Vinh",
+        "count": 6.468
+    },
+    {
+        "name": "Tuyên Quang",
+        "count": 5.143
+    },
+    {
+        "name": "Vĩnh Long",
+        "count": 3.506
+    },
+    {
+        "name": "Vĩnh Phúc",
+        "count": 10.284
+    },
+    {
+        "name": "Yên Bái",
+        "count": 4.714
+    },
+    {
+        "name": "Chưa phân loại",
+        "count": 631.008
+    }
+]
