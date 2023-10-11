@@ -1,42 +1,52 @@
 [
     {
         "name": "CÔNG TY TNHH THƯƠNG MẠI ĐÔNG NAM",
-        "total": "3206"
+        "miss": "3206",
+        "total": 4626
     },
     {
         "name": "CÔNG TY TNHH NHẬT LINH ĐÀ NẴNG",
-        "total": "2072"
+        "miss": "2072",
+        "total": 2492
     },
     {
         "name": "CÔNG TY TNHH MỘT THÀNH VIÊN MỘC NHẬT MINH",
-        "total": "1587"
+        "miss": "1587",
+        "total": 2181
     },
     {
         "name": "Tổng Công ty cổ phần Bảo hiểm Bưu điện",
-        "total": "1518"
+        "miss": "1518",
+        "total": 4344
     },
     {
         "name": "CÔNG TY TNHH NGỌC KHÁNH",
-        "total": "1310"
+        "miss": "1310",
+        "total": 1650
     },
     {
         "name": "CÔNG TY CỔ PHẦN THIẾT BỊ ĐIỆN TUẤN ÂN",
-        "total": "1277"
+        "miss": "1277",
+        "total": 2720
     },
     {
         "name": "CÔNG TY CỔ PHẦN THIẾT BỊ ĐIỆN SÀI GÒN",
-        "total": "1262"
+        "miss": "1262",
+        "total": 2234
     },
     {
         "name": "CÔNG TY TNHH MỘT THÀNH VIÊN KHOA HỌC VÀ CÔNG NGHỆ NĂNG LƯỢNG XANH",
-        "total": "1223"
+        "miss": "1223",
+        "total": 1574
     },
     {
         "name": "Tổng Công ty Bảo hiểm PVI",
-        "total": "1202"
+        "miss": "1202",
+        "total": 4275
     },
     {
         "name": "CÔNG TY CỔ PHẦN IN HÀ NỘI",
-        "total": "1028"
+        "miss": "1028",
+        "total": 1868
     }
 ]

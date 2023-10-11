@@ -1,42 +1,52 @@
 [
     {
         "name": "CÔNG TY TNHH THƯƠNG MẠI ĐÔNG NAM",
-        "total": "4622"
+        "total": "4622",
+        "hit": 711
     },
     {
         "name": "Tổng Công ty cổ phần Bảo hiểm Bưu điện",
-        "total": "4344"
+        "total": "4344",
+        "hit": 2453
     },
     {
         "name": "Tổng Công ty Bảo hiểm PVI",
-        "total": "4264"
+        "total": "4264",
+        "hit": 2711
     },
     {
         "name": "Tổng công ty cổ phần bảo hiểm quân đội",
-        "total": "2997"
+        "total": "2997",
+        "hit": 1831
     },
     {
         "name": "Tổng Công ty Bảo hiểm Bảo Việt",
-        "total": "2847"
+        "total": "2847",
+        "hit": 2160
     },
     {
         "name": "CÔNG TY CỔ PHẦN THIẾT BỊ ĐIỆN TUẤN ÂN",
-        "total": "2720"
+        "total": "2720",
+        "hit": 954
     },
     {
         "name": "TỔNG CÔNG TY CỔ PHẦN BẢO MINH",
-        "total": "2665"
+        "total": "2665",
+        "hit": 1881
     },
     {
         "name": "Tổng Công ty cổ phần bảo hiểm Petrolimex",
-        "total": "2587"
+        "total": "2587",
+        "hit": 1472
     },
     {
         "name": "CÔNG TY TNHH NHẬT LINH ĐÀ NẴNG",
-        "total": "2492"
+        "total": "2492",
+        "hit": 162
     },
     {
         "name": "CÔNG TY TNHH THIẾT BỊ MINH TÂM",
-        "total": "2424"
+        "total": "2424",
+        "hit": 2051
     }
 ]
